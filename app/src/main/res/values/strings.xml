@@ -1,0 +1,66 @@
+<resources>
+    <string name="app_name">JARVIS</string>
+    <string name="jarvis_title">জার্ভিস এআই</string>
+    <string name="jarvis_tagline">ভবিষ্যতমুখী ব্যক্তিগত এআই সহকারী</string>
+    <string name="status_online">অনলাইন • প্রস্তুত</string>
+    <string name="status_listening">শুনছি…</string>
+    <string name="status_thinking">বিশ্লেষণ চলছে…</string>
+    <string name="status_speaking">উত্তর দিচ্ছি…</string>
+    <string name="status_offline">অফলাইন মোড</string>
+    
+    <!-- Navigation Tabs -->
+    <string name="nav_assistant">সহকারী</string>
+    <string name="nav_calling">ভয়েস কল</string>
+    <string name="nav_vision">ভিশন স্ক্যান</string>
+    <string name="nav_vault">মেমরি ভল্ট</string>
+    <string name="nav_telemetry">টেলিমেট্রি</string>
+    <string name="nav_touch">টাচ ও স্ক্রিন</string>
+    <string name="nav_coding">কোডিং</string>
+    
+    <!-- Controls & Prompts -->
+    <string name="prompt_hint">জার্ভিসকে যেকোনো প্রশ্ন করুন…</string>
+    <string name="voice_tap_to_speak">কথা বলতে চাপুন</string>
+    <string name="voice_tap_to_stop">থামাতে চাপুন</string>
+    <string name="voice_call_active">লাইভ ভয়েস লিঙ্ক সক্রিয়</string>
+    <string name="end_call">সংযোগ বিচ্ছিন্ন</string>
+    <string name="start_call">ভয়েস কল শুরু</string>
+    <string name="lang_toggle">বাংলা / EN</string>
+    <string name="current_lang">বাংলা</string>
+    
+    <!-- Memory Vault -->
+    <string name="vault_title">গোপনীয় মেমরি ভল্ট</string>
+    <string name="vault_subtitle">AES এনক্রিপ্ট করা স্থানীয় ডেটা</string>
+    <string name="vault_add">নতুন মেমরি সংরক্ষণ</string>
+    <string name="vault_empty">কোনো সংরক্ষিত মেমরি নেই</string>
+    <string name="vault_key_hint">শিরোনাম (যেমন: ওয়াইফাই পাসওয়ার্ড, নোট)</string>
+    <string name="vault_value_hint">গোপনীয় তথ্য বা বিস্তারিত বিবরণ</string>
+    <string name="vault_save">এনক্রিপ্ট করে সেভ করুন</string>
+    
+    <!-- Vision & Screen -->
+    <string name="vision_title">ক্যামেরা ও ভিশন স্ক্যানার</string>
+    <string name="vision_scan_prompt">ছবি স্ক্যান করে বিশ্লেষণ করুন</string>
+    <string name="vision_capture">ছবি তুলুন</string>
+    <string name="vision_select">গ্যালারি থেকে নিন</string>
+    <string name="screen_read_title">অটো স্ক্রিন রিডিং ও টাচ কন্ট্রোল</string>
+    <string name="screen_read_desc">অ্যাক্সেসিবিলিটি সার্ভিসের মাধ্যমে অন-স্ক্রিন কন্টেন্ট পড়া ও স্পর্শ নিয়ন্ত্রণ সুবিধা।</string>
+    
+    <!-- Telemetry -->
+    <string name="telemetry_title">সিস্টেম পারফরম্যান্স ও রিসোর্স</string>
+    <string name="telemetry_battery">ব্যাটারি</string>
+    <string name="telemetry_ram">মেমরি (RAM)</string>
+    <string name="telemetry_storage">স্টোরেজ</string>
+    <string name="telemetry_cpu">CPU লোড</string>
+    <string name="telemetry_security">এনক্রিপশন নিরাপত্তা: সক্রিয় (AES-256)</string>
+    
+    <!-- Auth & Profile -->
+    <string name="user_profile">ব্যবহারকারীর প্রোফাইল</string>
+    <string name="sign_in_google">Google দিয়ে সাইন-ইন করুন</string>
+    <string name="sign_out">সাইন-আউট</string>
+    <string name="guest_mode">গেস্ট মোড (অফলাইন)</string>
+    
+    <!-- Actions -->
+    <string name="copy">কপি করুন</string>
+    <string name="copied">ক্লিপবোর্ডে কপি হয়েছে!</string>
+    <string name="clear_chat">চ্যাট মুছুন</string>
+    <string name="permission_required">মাইক্রোফোন ও ক্যামেরার অনুমতি প্রয়োজন</string>
+</resources>

@@ -1,0 +1,66 @@
+<resources>
+    <string name="app_name">JARVIS</string>
+    <string name="jarvis_title">JARVIS AI</string>
+    <string name="jarvis_tagline">Next-Generation Personal AI Assistant</string>
+    <string name="status_online">Online • Ready</string>
+    <string name="status_listening">Listening…</string>
+    <string name="status_thinking">Processing…</string>
+    <string name="status_speaking">Responding…</string>
+    <string name="status_offline">Offline Mode</string>
+    
+    <!-- Navigation Tabs -->
+    <string name="nav_assistant">Assistant</string>
+    <string name="nav_calling">Voice Call</string>
+    <string name="nav_vision">Vision Scan</string>
+    <string name="nav_vault">Memory Vault</string>
+    <string name="nav_telemetry">Telemetry</string>
+    <string name="nav_touch">Touch &amp; Screen</string>
+    <string name="nav_coding">Coding</string>
+    
+    <!-- Controls & Prompts -->
+    <string name="prompt_hint">Ask JARVIS anything…</string>
+    <string name="voice_tap_to_speak">Tap to Speak</string>
+    <string name="voice_tap_to_stop">Tap to Stop</string>
+    <string name="voice_call_active">Live Voice Link Active</string>
+    <string name="end_call">Disconnect</string>
+    <string name="start_call">Start Voice Call</string>
+    <string name="lang_toggle">EN / বাংলা</string>
+    <string name="current_lang">English</string>
+    
+    <!-- Memory Vault -->
+    <string name="vault_title">Encrypted Memory Vault</string>
+    <string name="vault_subtitle">AES Encrypted Local Knowledge</string>
+    <string name="vault_add">Save New Memory</string>
+    <string name="vault_empty">No stored memories found</string>
+    <string name="vault_key_hint">Title (e.g. WiFi Password, Notes)</string>
+    <string name="vault_value_hint">Confidential details or instructions</string>
+    <string name="vault_save">Encrypt &amp; Save</string>
+    
+    <!-- Vision & Screen -->
+    <string name="vision_title">Camera Vision &amp; Scanner</string>
+    <string name="vision_scan_prompt">Scan and analyze image</string>
+    <string name="vision_capture">Capture Photo</string>
+    <string name="vision_select">Select from Gallery</string>
+    <string name="screen_read_title">Auto Screen Reading &amp; Touch Control</string>
+    <string name="screen_read_desc">On-screen content comprehension and touch interaction via Accessibility framework.</string>
+    
+    <!-- Telemetry -->
+    <string name="telemetry_title">System Performance &amp; Resources</string>
+    <string name="telemetry_battery">Battery</string>
+    <string name="telemetry_ram">RAM Usage</string>
+    <string name="telemetry_storage">Storage</string>
+    <string name="telemetry_cpu">CPU Load</string>
+    <string name="telemetry_security">Encryption Security: Active (AES-256)</string>
+    
+    <!-- Auth & Profile -->
+    <string name="user_profile">User Profile</string>
+    <string name="sign_in_google">Sign In with Google</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="guest_mode">Guest Mode (Offline)</string>
+    
+    <!-- Actions -->
+    <string name="copy">Copy</string>
+    <string name="copied">Copied to clipboard!</string>
+    <string name="clear_chat">Clear Chat</string>
+    <string name="permission_required">Microphone and Camera permissions required</string>
+</resources>

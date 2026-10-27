@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="jarvis_bg">#FF050811</color>
+    <color name="jarvis_surface">#FF0D1527</color>
+    <color name="jarvis_surface_variant">#FF14203D</color>
+    <color name="jarvis_cyan">#FF00F0FF</color>
+    <color name="jarvis_blue">#FF1D70B8</color>
+    <color name="jarvis_neon_green">#FF00E676</color>
+    <color name="jarvis_amber">#FFFF9F1C</color>
+    <color name="jarvis_red">#FFFF3366</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="black">#FF000000</color>
+</resources>
